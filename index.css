@@ -332,4 +332,7 @@ footer{
         flex-direction: column;
 
     }
+    .email-container{
+        width: 80%;
+    }
 }
